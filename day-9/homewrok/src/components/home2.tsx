@@ -1,11 +1,6 @@
 import React, { useState, useEffect } from 'react'
-import { Row, Container } from 'react-bootstrap'
+import { Row, Container, Table } from 'react-bootstrap'
 import { HeaderProps } from '../types/types'
-
-
-
-
-// function home2() {
 
 
 
@@ -41,7 +36,7 @@ const Header = ({ title }: HeaderProps) => {
             <Container>
                 <Row>
 
-
+                    test
                 </Row></Container>
 
         </div>
